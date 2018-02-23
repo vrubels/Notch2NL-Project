@@ -11,18 +11,18 @@ Next, we step through known N2NL-associated Chimp BAC and other published sequen
 The sequence mappings I'll show below are:
 
 * BACs
- * CH251-414E24
- * CH251-305M22
- * CH251-397N13
- * CH251-243D3
- * CH251-485H13
+  * CH251-414E24
+  * CH251-305M22
+  * CH251-397N13
+  * CH251-243D3
+  * CH251-485H13
 * Genomic Sequences
- * AACZ03011046.1
- * AADA01172734.1
- * AACZ03149796.1
- * AADA01170825.1
- * AACZ03149820.1
- * AADA01102044.1
+  * AACZ03011046.1
+  * AADA01172734.1
+  * AACZ03149796.1
+  * AADA01170825.1
+  * AACZ03149820.1
+  * AADA01102044.1
  
  First for CH251-414E24, we see that c7 and c16 are the bins that most closely match the BAC reference.
  
