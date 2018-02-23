@@ -26,20 +26,20 @@ The sequence mappings I'll show below are:
  
  First for CH251-414E24, we see that c7 and c16 are the bins that most closely match the BAC reference.
  
- ![CH251-414E24][https://github.com/vrubels/Notch2NL-Project/blob/vrubels-edit-readme/Screen%20Shot%202018-02-23%20at%201.23.17%20PM.png]
+ ![CH251-414E24](https://github.com/vrubels/Notch2NL-Project/blob/vrubels-edit-readme/Screen%20Shot%202018-02-23%20at%201.23.17%20PM.png)
  
  Next for CH251-305M22, we see that c0 and c18 are the bins that most closely match the BAC reference. 
  
- ![CH251-305M22][https://github.com/vrubels/Notch2NL-Project/blob/vrubels-edit-readme/Screen%20Shot%202018-02-23%20at%201.54.16%20PM.png]
+ ![CH251-305M22](https://github.com/vrubels/Notch2NL-Project/blob/vrubels-edit-readme/Screen%20Shot%202018-02-23%20at%201.54.16%20PM.png)
  
  We see that CH251-397N13 has best evidence from the same c0 and c18 bins, so these BACs are grouped together.
  
- ![CH251-397N13][https://github.com/vrubels/Notch2NL-Project/blob/vrubels-edit-readme/Screen%20Shot%202018-02-23%20at%201.55.05%20PM.png]
+ ![CH251-397N13](https://github.com/vrubels/Notch2NL-Project/blob/vrubels-edit-readme/Screen%20Shot%202018-02-23%20at%201.55.05%20PM.png)
  
  Finally, for CH251-243D3 and CH251-485H13, only c10 seems to be the best assembled bin. This is possibly due to a failure to separate similar maternal and paternal sequences into different bins, but no further bins are created upon reassembly.
  
- ![CH251-243D3][https://github.com/vrubels/Notch2NL-Project/blob/vrubels-edit-readme/Screen%20Shot%202018-02-23%20at%201.59.32%20PM.png]
- ![CH251-485H13][https://github.com/vrubels/Notch2NL-Project/blob/vrubels-edit-readme/Screen%20Shot%202018-02-23%20at%202.00.05%20PM.png]
+ ![CH251-243D3](https://github.com/vrubels/Notch2NL-Project/blob/vrubels-edit-readme/Screen%20Shot%202018-02-23%20at%201.59.32%20PM.png)
+ ![CH251-485H13](https://github.com/vrubels/Notch2NL-Project/blob/vrubels-edit-readme/Screen%20Shot%202018-02-23%20at%202.00.05%20PM.png)
  
  
 
