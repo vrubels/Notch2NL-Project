@@ -4,7 +4,7 @@ Repository for contributing scripts and explanatory figures around Notch2NL comp
 
 This walk through starts at the conclusion of the Gordion assembler pipeline, which constructs K assembled N2NL paratypes from 10X Chromium reads. In Chimp, we see a total of 19 assembled paratypes to start, which look like this against hg38.
 
-![assembly](figs/whole view.pdf)
+![assembly](https://github.com/vrubels/Notch2NL-Project/blob/vrubels-edit-readme/Screen%20Shot%202018-02-23%20at%201.05.13%20PM.png)
 
 The following indicates the results from this walk through, associating assembled bins with their names as they appear in our manuscript: https://doi.org/10.1101/221226
 
