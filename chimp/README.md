@@ -6,7 +6,7 @@ Repository for contributing scripts and explanatory figures around Notch2NL comp
 
 This walk through starts at the conclusion of the Gordion assembler pipeline, which constructs K assembled N2NL paratypes from 10X Chromium reads. In Chimp, we see a total of 19 assembled paratypes to start, which look like this against hg38.
 
-![assembly](https://github.com/vrubels/Notch2NL-Project/blob/vrubels-edit-readme/Screen%20Shot%202018-02-23%20at%201.05.13%20PM.png)
+![assembly](https://github.com/vrubels/Notch2NL-Project/blob/master/chimp/Screen%20Shot%202018-02-23%20at%201.05.13%20PM.png)
 
 Next, we step through known N2NL-associated Chimp BAC and other published sequences, to see if any of these assembled bins clearly support one or more known sequences. RNA fusion transcripts are included where available, as are annotations for any important genes we'd expect to see in this region. In general, we expect the assembler to have made 2 almost identical bins for each true locus, one each for the maternal and paternally derived versions of the region.
 
