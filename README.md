@@ -9,3 +9,5 @@ figs/ contains miscellaneous other figures
 
 
 scripts/ contains the scripts that were used to assemble 10X reads into bins using Gordion, construct scaffolds from Gordion contigs, and visualize both the bins and scaffolds on the browser.
+
+pdfs/ contains pdfs with stable URLs relating to Supp Table 4.
