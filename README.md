@@ -3,7 +3,9 @@ This repository contains some supplemental information from the 2018 N2NL paper.
 
 chimp/ contains a walk through of the methodology for determining which assembled bins were associated with which proteins in Chimp.
 
-assemblies/ contains fastas of contigs and the original reads for each bin created by Gordion for each of these Chimp assemblies
+chimp_assemblies/ contains fastas of contigs and the original reads for each bin created by Gordion for each of these Chimp assemblies
+
+human_assemblies/ contains fastas of contigs and constructed scaffolds for each bin created by Gordion for all fully consented human cell lines
 
 figs/ contains miscellaneous other figures
 
